@@ -1,0 +1,80 @@
+.contenedor{
+    background-color: green;
+    
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.cont1{
+    background-color: blue;
+    width: 400px;
+    height: 800px;
+    margin: 10px;
+    display: flex;
+    flex-direction: row;
+    
+}
+.cont1-1{
+    display: flex;
+    flex-direction: row;
+}
+.cont1-2{
+    display: flexbox;
+    flex-direction: column;
+    position: relative;
+    top: 150px;
+    right: 350px;
+}
+.cont1-3{
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    top: 500px;
+    right: 680px;
+
+}
+.cont2-2{
+    display: flex;
+    flex-direction: column;
+}
+.cont3-3{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+
+
+
+.caja1{
+    background-color: gold;
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+}
+.caja2{
+    background-color: red;
+    width: 300px;
+    height: 100px;
+    margin: 10px;  
+}
+.caja3{
+    background-color: orange;
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+}
+.caja2-2{
+    background-color: grey;
+    width: 300px;
+    height: 100px;
+    margin: 10px;  
+}
+.caja3-3{
+    background-color: hotpink;
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+}
+
+
